@@ -19,7 +19,7 @@ This repository contains an E-Commerce Application with various classes and meth
 
 ## How to Run
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/FurkanBaytak/Java-OOP-E-Commerce-Application`
 2. Open the project in your preferred Java IDE.
 3. Run the `Test` class to start the application.
 
